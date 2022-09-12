@@ -15,6 +15,8 @@
 
 A simple portfolio using HTML and CSS.
 
+Deployed link: https://keyurmist.github.io/Updated-portfolio/
+
 ## Installation
 
 Please follow the instructions on how to install the application:
